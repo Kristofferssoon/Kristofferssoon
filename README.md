@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/kristofferssoo" target="blank"><img src="https://img.shields.io/twitter/follow/kristofferssoo?logo=twitter&style=for-the-badge" alt="kristofferssoo" /></a> </p>
 
-- 🔭 I’m currently working on new things 👏 **always exploring mew things**
+- 🔭 I’m learning new languages & tools 2022 🔥🚀🧑‍💻
 
-- 🌱 I’m currently learning development **Development**
+- 🌱 I’m currently customizing my GitHub Profile **GitHub** :octocat:
+ 
 
-- 🤝 I’m looking for help with **GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
