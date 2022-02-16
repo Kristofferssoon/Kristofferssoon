@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristofferssoon</h1>
-<h3 align="center">Passion for tech 🚀 Currently focused on learning: Android & Web development📱💻 | Design 🖌️ | GitHub :octocat:🧑‍💻</h3>
+<h3 align="center">Passion for tech ♥️ Currently focused on learning: GitHub :octocat: Android & web development 🧑‍💻🚀📱💻</h3>
 
-<p align="left"> <a href="https://twitter.com/kristofferssoo" target="blank"><img src="https://img.shields.io/twitter/follow/kristofferssoo?logo=twitter&style=for-the-badge" alt="kristofferssoo" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Android, Flutter, React, Web development, & design 🧑‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
