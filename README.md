@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristofferssoon</h1>
-<h3 align="center">Passion for tech ♥️ Currently focused on learning: GitHub :octocat: Android & web development 🧑‍💻🚀📱💻</h3>
+<h3 align="center">Passion for tech ♥️ Currently focused on learning: GitHub, programming, Android & web development and graphic design 👨‍💻🚀:octocat:📱💻🖌️♥️</h3>
 
 
 <h3 align="left">Connect with me:</h3>
