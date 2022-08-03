@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kristoffersson</h1>
-<h3 align="center">Passion for tech! ❤️ Currently focused on learning development! :octocat:🧑‍💻🥷🧰</h3>
+<h1 align="center">Hi 👋, I'm Love Kristoffersson</h1>
+<h3 align="center">Learning things! ♥️ Life's a never ending learning curve. Love finding the best solutions, products & I can easily spend hundreds of hours to gain more knowledge. Former member of the Swedish national archery team, fitness lover & store manager. Now battling daily with Crohn's Disease & chronic neuropathic pain after four surgeries. I died back in 2018 & I'm starting to be reel sick of belonging to the dead. 2022 rebirth - Love Kristoffersson</h3>
 
 
 <h3 align="left">Connect with me:</h3>
